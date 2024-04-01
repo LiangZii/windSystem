@@ -37,7 +37,7 @@
 
 3.同时具备记住密码功能
 
-![image-20240401161627262](D:\Program Files\Typora\image\image-20240401161627262.png)
+![image-20240401161627262](https://github.com/LiangZii/windSystem/blob/master/images/image-20240401161627262.png)
 
 
 
@@ -47,7 +47,7 @@
 
 以下为“**实时监测**”功能界面，其余功能在此省略。
 
-![image-20240401161830575](D:\Program Files\Typora\image\image-20240401161830575.png)
+![image-20240401161830575](https://github.com/LiangZii/windSystem/blob/master/images/image-20240401161830575.png)
 
 
 
@@ -55,7 +55,7 @@
 
 分析与统计提供详细的故障、发电、备件与消耗等统计，并使用Echarts绘制图表提供更加直观的显示。
 
-![image-20240401162131518](D:\Program Files\Typora\image\image-20240401162131518.png)
+![image-20240401162131518](https://github.com/LiangZii/windSystem/blob/master/images/image-20240401162131518.png)
 
 
 
@@ -65,20 +65,20 @@
 
 数据库表名清单：
 
-![image-20240401162420384](D:\Program Files\Typora\image\image-20240401162420384.png)
+![image-20240401162420384](https://github.com/LiangZii/windSystem/blob/master/images/image-20240401162420384.png)
 
 
 
 数据库E-R图：
 
-![image-20240401162438076](D:\Program Files\Typora\image\image-20240401162438076.png)
+![image-20240401162438076](https://github.com/LiangZii/windSystem/blob/master/images/image-20240401162438076.png)
 
 ## 4.2 前端技术
 
-![image-20240401162646283](D:\Program Files\Typora\image\image-20240401162646283.png)
+![image-20240401162646283](https://github.com/LiangZii/windSystem/blob/master/images/image-20240401162646283.png)
 
 
 
 ## 4.3 后端技术
 
-![image-20240401162701002](D:\Program Files\Typora\image\image-20240401162701002.png)
+![image-20240401162701002](https://github.com/LiangZii/windSystem/blob/master/images/image-20240401162701002.png)
