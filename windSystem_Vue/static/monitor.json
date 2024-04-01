@@ -1,0 +1,27 @@
+{
+    "list": [{
+            "wid": 1,
+            "wname": "察北风场",
+            "number": 12,
+            "allEnergy": 345678
+        },
+        {
+            "wid": 2,
+            "wname": "察北风场",
+            "number": 12,
+            "allEnergy": 345678
+        },
+        {
+            "wid": 3,
+            "wname": "察北风场",
+            "number": 12,
+            "allEnergy": 345678
+        },
+        {
+            "wid": 4,
+            "wname": "察北风场",
+            "number": 12,
+            "allEnergy": 345678
+        }
+    ]
+}

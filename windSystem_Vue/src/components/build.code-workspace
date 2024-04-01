@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../build"
+		},
+		{
+			"path": "../../config"
+		},
+		{
+			"path": "../../project"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../static"
+		}
+	]
+}
